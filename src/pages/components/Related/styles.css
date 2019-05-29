@@ -1,0 +1,9 @@
+.Related {
+  display: flex;
+  justify-content: center;
+}
+
+.Related div{
+  padding: 16px;
+}
+
